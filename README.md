@@ -4,10 +4,6 @@
 
 テキスト入力からAIがイメージを解釈し、アスキーアートとして出力するサービスです。多様なスタイルとカスタマイズ機能を備え、ユーザーは簡単に独自のアートを生成できます。
 
-![TextScii Demo](https://img.shields.io/badge/Status-Ready-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ## 🌟 主な機能
 
 - **AI解釈による創造性**: テキストから想像力で視覚化
