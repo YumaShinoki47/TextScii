@@ -1,1 +1,13 @@
 概要書.md
+
+# Environment variables
+.env
+backend/.env
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+build/
