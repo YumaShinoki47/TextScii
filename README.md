@@ -2,7 +2,7 @@
 
 **AI-powered Text to ASCII Art Generator**
 
-テキスト入力からAIがイメージを解釈し、アスキーアートとして視覚化するWebサービス
+テキスト入力からAIがイメージを解釈し、アスキーアートとして出力するサービスです。多様なスタイルとカスタマイズ機能を備え、ユーザーは簡単に独自のアートを生成できます。
 
 ![TextScii Demo](https://img.shields.io/badge/Status-Ready-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
